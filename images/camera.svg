@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="29px" height="26px" viewBox="0 0 29 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.1 (9977) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_camera_alt_24px</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="home" sketch:type="MSLayerGroup" transform="translate(-300.000000, -405.000000)">
+            <g id="ic_camera_alt_24px" transform="translate(301.000000, 406.000000)" sketch:type="MSShapeGroup">
+                <ellipse id="Oval" fill="#ECF0F1" cx="13.5" cy="13.3333333" rx="4.32" ry="4.26666667"></ellipse>
+                <path d="M9.45,0 L6.9795,2.66666667 L2.7,2.66666667 C1.215,2.66666667 0,3.86666667 0,5.33333333 L0,21.3333333 C0,22.8 1.215,24 2.7,24 L24.3,24 C25.785,24 27,22.8 27,21.3333333 L27,5.33333333 C27,3.86666667 25.785,2.66666667 24.3,2.66666667 L20.0205,2.66666667 L17.55,0 L9.45,0 L9.45,0 Z M13.5,20 C9.774,20 6.75,17.0133333 6.75,13.3333333 C6.75,9.65333333 9.774,6.66666667 13.5,6.66666667 C17.226,6.66666667 20.25,9.65333333 20.25,13.3333333 C20.25,17.0133333 17.226,20 13.5,20 L13.5,20 Z" id="Shape" fill="#F5F5F5"></path>
+            </g>
+        </g>
+    </g>
+</svg>
